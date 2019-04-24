@@ -10,7 +10,7 @@
   "author": "Kyle Kemp <kyle@seiyria.com>",
   "license": "MIT",
   "dependencies": {
-    "seiyria-bootstrap-slider": "~3.1.0",
+    "bootstrap-slider": "git+https://github.com/seiyria/bootstrap-slider.git#3.1.0",
     "angular": "~1.2.16"
   }
 }
